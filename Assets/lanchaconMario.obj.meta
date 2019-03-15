@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: daae490008131984d9b3a3702d5d5180
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2100000: Material.119_BLACK.png
+    2100002: Material.122_BLACK.png
+    2100004: Material.123_BLACK.png
+    2100006: Material.120_WHITE.png
+    2100008: Material.113_RED.png
+    2100010: Material.121_WHITE.png
+    2100012: Material.121_SKIN.png
+    2100014: Material.117_WHITE.png
+    2100016: Material.111_WHITE.png
+    2100018: Material.121_BLACK.png
+    2100020: Material.114_RED.png
+    2100022: Material.118_BLUE.png
+    2100024: Material.110_WHITE.png
+    2100026: Material.115_BLUE.png
+    2100028: Material.116_BLACK.png
+    2100030: Material.109_HAIR.png
+    2100032: Material.112_HAIR.png
+    2100034: phong14
+    2100036: phong19
+    2100038: phong13
+    2100040: phong20
+    2100042: phong16
+    2100044: phong18
+    2100046: phong15
+    2100048: phong17
+    2100050: phongE1
+    2100052: pasted__lambert9
+    2100054: pasted__phong38
+    2100056: pasted__phong39
+    2100058: pasted__lambert8
+    2100060: phong11
+    2100062: phong10
+    2100064: phong8
+    2100066: phong7
+    2100068: phong2
+    2100070: phong1
+    2100072: pasted__phongE3
+    2100074: pasted__phongE2
+    2100076: pasted__phong19
+    2100078: pasted__phong18
+    2100080: pasted__pasted__phong34
+    2100082: pasted__pasted__phong33
+    2100084: pasted__pasted__lambert4
+    2100086: pasted__pasted__phongE7
+    2100088: pasted__pasted__phongE5
+    2100090: pasted__pasted__phong32
+    2100092: pasted__pasted__phongE6
+    2100094: pasted__pasted__phong22
+    2100096: pasted__pasted__phongE8
+    2100098: pasted__pasted__phongE3
+    2100100: pasted__pasted__phong28
+    2100102: lambert1
+    2100104: pasted__phong9
+    2100106: pasted__phong10
+    2100108: phong3
+    2100110: phong5
+    2100112: phong4
+    2100114: phong9
+    2100116: phong12
+    2100118: phong6
+    2300000: default
+    3300000: default
+    4300000: default
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
